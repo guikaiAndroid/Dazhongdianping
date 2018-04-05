@@ -1,1 +1,2 @@
-# FangDaZhongDianPing-master
+# 一个高仿大众点评APP的项目
+## 用到很多技术点 提供给各位小伙伴Review 不喜勿喷 谢谢！
